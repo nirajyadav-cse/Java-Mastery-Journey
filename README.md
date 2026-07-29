@@ -56,7 +56,7 @@ This repository is my personal Java learning journey. I created it to track my d
 - Grade Calculator
 - Calculator using Switch Statement
 
-  🎯 What I Understood
+🎯 What I Understood
   
 -  How variables store values.
 - The difference between different data types.
@@ -66,7 +66,7 @@ This repository is my personal Java learning journey. I created it to track my d
 - The importance of writing clean and readable code.
 
   
-🚀 My Goal
+ 🚀 My Goal
 
 My goal is not just to finish Java but to understand every concept deeply. I want to build a strong foundation before moving on to Data Structures and Algorithms, Web Development, and Machine Learning.
 
