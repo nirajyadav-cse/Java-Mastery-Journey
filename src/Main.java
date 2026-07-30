@@ -1,25 +1,15 @@
- public class Main {
-   public static void main(String[] args){
-       int a = 10;
-        int b = 15;
-      int sum = a+b;
-         System.out.println(sum);
-        int sub = b-a;
-       System.out.println(sub);
-        int multi = a*b;
-       System.out.println(multi);
-       int ans = (a*b)/(b-a);
-        System.out.println(ans);
-   }
- }
+public class Main {
+    public static void main(String[] args){
+        String name = "Niraj";
+        int age= 21;
+        float height = 174.5f;
+        char bloodGroup = 'B';
+        boolean student = true;
 
-//import java.util.*;
-//public class Main {
-  //  public static void main(String[] args){
-    //    Scanner sc = new Scanner(System.in);
-    //    int a = sc.nextInt();
-    //    int b = sc.nextInt();
-    //    int sum = a+b;
-    //    System.out.println(sum);
-   // }
-//}
+        System.out.println("Name:" + name);
+        System.out.println("Age:" +age);
+        System.out.println("Height:" + height);
+        System.out.println("Blood Group Initial:" + bloodGroup);
+        System.out.println("Student:" + student);
+    }
+}
