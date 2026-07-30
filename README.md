@@ -35,7 +35,11 @@ This repository is my personal Java learning journey. I created it to track my d
   ** Learning consistently, one dat at a time.**
 
 
+
+
 ----------------------------------------------------------------------------------------------------------------------
+
+
 
 
    ##  📆 Day 2
@@ -76,7 +80,9 @@ Every day I am becoming more comfortable with Java. I know I am still a beginner
 
 
 
+
 ----------------------------------------------------------------------------------------------------------------------
+
 
 
 ## 📆 Day 3
