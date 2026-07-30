@@ -73,3 +73,37 @@ My goal is not just to finish Java but to understand every concept deeply. I wan
 ✨ Reflection
 
 Every day I am becoming more comfortable with Java. I know I am still a beginner, but I believe that learning consistently and practicing every day will help me become a better software engineer.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+## 📆 Day 3
+
+📚 What I Learned Today
+
+Today I learned about Java Data Types and why they are important in programming. I understood that every variable needs a data type so java knows what kind of value it will store.
+I studied all eight primitive data types : byte, short, int, long, float, double, char, and boolean. I also learned the difference between primitive and non-primitive data types, float and double, and char and string.
+I practiced creating variables using different data types and printed their values to understand how each one works.
+
+💻 Programs I Practiced 
+
+- Student Details using different data types
+- Primitive Data Types Example
+- Integer Data Types (byte, short, int, long)
+- Float and Double Example
+- Character (char) Example
+- Boolean Example
+
+🎯 What I Understood
+
+- Why data types are important in Java.
+- How to choose the correct data type.
+- The difference between primitive and non-primitive data types.
+- The difference between float and double.
+- The difference between char and String.
+
+✨ Reflection
+
+Today I understood that using the correct data type makes Java programs more efficient and easier to understand. I enjoyed practicing different data types and now I feel more confident writing Java programs.
