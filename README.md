@@ -113,3 +113,39 @@ I practiced creating variables using different data types and printed their valu
 ✨ Reflection
 
 Today I understood that using the correct data type makes Java programs more efficient and easier to understand. I enjoyed practicing different data types and now I feel more confident writing Java programs.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+# 📆 Day 4 - Java For Loop 
+
+
+📚 What I Learned Today
+
+Today I learned about the Java 'for' loop and why loops are important in programming. I understood that a loop helps us execute the same block of code multiple times without writing duplicate code. I learned the three parts of a 'for' loop: initialization, condition, and update. I also practiced tracing how the loop executes step by step.
+
+
+💻 Programs I Practiced 
+
+
+- Print number from 0 to 100.
+- Print Even number from 2 to 100.
+- Print Multiplication table.
+- Print Odd number from 1 to 100.
+- Print Reverse Counting from 100 to 1.
+  
+
+🎯 What I Understood 
+
+
+- Why loops are important in Java.
+- The syntax of the 'for' loop.
+- How initialization, condition, and update work together.
+- How a loop executes repeatedly until the condition become false.
+- How to solve basic programming problems using a ' for' loop.
+  
+
+### 🎯 Next Goal 
+ 
+
+Learn the 'while' loop and solve more programming problems using loops.
