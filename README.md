@@ -153,13 +153,19 @@ Learn the 'while' loop and solve more programming problems using loops.
 
 ----------------------------------------------------------------------------------------------------------------------
 
+
+
 ## 📆 Day 5 - While loop
+
+
 
    📚 What I Learned Today
 
    Today I learned about the Java **while loop**. I understood that a while loop checks the condition before executing the code, so it runs only when the condition is true. I learned how initialization, condition, and update work together to control the loop. I also practiced tracing the execution of the loop step by step.
 
+
    💻 Programs I Practiced 
+   
 
 - Print number from 1 to 10.
 - Print Even number from 2 to 100.
@@ -169,8 +175,10 @@ Learn the 'while' loop and solve more programming problems using loops.
 - Sum of first N natural numbers.
 - Sum of digits.
 - Factorial using while loop.
+  
 
   🎯 What I Understood
+  
 
  - What a while loop is.
 - Why a while loop is called an entry-controlled loop.
@@ -178,6 +186,8 @@ Learn the 'while' loop and solve more programming problems using loops.
 - How the condition controls the execution of the loop.
 - How to solve basic programming problems using a while loop.
 
+
   ### 🎯 Next Goal
+  
 
 In the next lesson, I will learn the **do-while loop**, along with `break` and `continue` statements, and practice more loop-based programming problems.
