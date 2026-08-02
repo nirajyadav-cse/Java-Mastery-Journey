@@ -191,3 +191,51 @@ Learn the 'while' loop and solve more programming problems using loops.
   
 
 In the next lesson, I will learn the **do-while loop**, along with `break` and `continue` statements, and practice more loop-based programming problems.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+#  📆 Day 6 - do-While loop
+
+
+   Today i learned about the **do-while loop** in Java. I understand that unlike the 'while' loop, the 'do-while'        loop executes at least one time because the condition is checked after the loop body. I also learned how to use        the 'break' statement to immediately stop a loop and the 'continue' statement to skip the current iteration and       move to the next one . These concepts helped me understand different ways to control the flow of loops in Java.
+
+
+
+ 💻 Programs I Practiced
+
+
+   - Print numbers from 1 to 10 using do-while loop
+   - Print numbers from 10 to 1
+   - Print even numbers
+   - Print odd numbers
+   - Print multiplication table
+   - Sum of first N natural numbers
+   - Break statement example
+   - Continue statement example
+
+     
+
+ 🎯 What I Understood
+
+
+   - What a do-while loop is
+   - Difference between while and do-while loop
+   - Entry-controlled vs Exit-controlled loops
+   - How the break statement works
+   - How the continue statement works
+   - When to use do-while , break , and continue
+
+
+  ## 🚀 Challenges I Faced
+
+
+  At first, I was confused about why the 'do-while' loop runs even when the condition is false. After practicing different examples, I understood that the condition is checked only after the first execution. I also learned the difference between 'break' and 'continue' by writing simple programs.
+
+
+  ### 🎯 Next Goal
+  
+
+  Tomorrow I will start learning **Nested Loops** and **Pattern Printing** in Java. I will practice different star and number patterns to improve my understanding of loops.
