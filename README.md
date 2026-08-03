@@ -200,6 +200,9 @@ In the next lesson, I will learn the **do-while loop**, along with `break` and `
 #  📆 Day 6 - do-While loop
 
 
+ 📚 What I Learned Today
+
+
    Today i learned about the **do-while loop** in Java. I understand that unlike the 'while' loop, the 'do-while'        loop executes at least one time because the condition is checked after the loop body. I also learned how to use        the 'break' statement to immediately stop a loop and the 'continue' statement to skip the current iteration and       move to the next one . These concepts helped me understand different ways to control the flow of loops in Java.
 
 
@@ -218,7 +221,7 @@ In the next lesson, I will learn the **do-while loop**, along with `break` and `
 
      
 
- 🎯 What I Understood
+🎯 What I Understood
 
 
    - What a do-while loop is
@@ -229,7 +232,7 @@ In the next lesson, I will learn the **do-while loop**, along with `break` and `
    - When to use do-while , break , and continue
 
 
-  ## 🚀 Challenges I Faced
+  ## 🚀 Challenges I faced
 
 
   At first, I was confused about why the 'do-while' loop runs even when the condition is false. After practicing different examples, I understood that the condition is checked only after the first execution. I also learned the difference between 'break' and 'continue' by writing simple programs.
@@ -239,3 +242,50 @@ In the next lesson, I will learn the **do-while loop**, along with `break` and `
   
 
   Tomorrow I will start learning **Nested Loops** and **Pattern Printing** in Java. I will practice different star and number patterns to improve my understanding of loops.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+#  📆 Day 7 - Nested loop
+
+
+ 📚 What I Learned Today
+
+
+ Today I learned about **Nested Loops** in Java. I understood that a nested loop is a loop inside another loop, where the outer loop controls the number of rows and the inner loop controls the number of columns. I practiced different pattern programs and learned how nested loops are used to print starts and numbers. This topic helped me improve my logical thinking and prepared me for more advanced pattern problems.
+
+
+ 💻 Programs I Practiced
+
+
+ - Print rows and columns using nested loops.
+ - Square Star Pattern
+ - Rectangle Star Pattern
+ - Number Square Pattern
+ - Column Number Pattern
+ - Print 1111, 2222, 3333, 4444
+ - Print 12345 in multiple rows
+
+
+## 🎯 What I Understood
+
+- What a nested loop is
+- Difference between outer loop and inner loop
+- How rows and columns work in pattern printing
+- How to print square and rectangle patterns
+- How to print number patterns using nested loops
+- Importance of nested loops in Java programming
+
+  
+## 🚀 Challenges I faced
+
+
+At first, I found it difficult to understand how the outer and inner loops work together. After tracing the execution step by step and practicing different pattern programs, I understood that the outer loop controls the rows while the inner loop controls the columns.
+
+
+### 🎯 Next Goal
+
+
+Tomorrow I will learn **Triangle Patterns** in Java, including left triangle, right triangle, inverted triangle, number triangle, and Floyd's Triangle. I will continue practicing pattern problem to improve my programming logic.
+
