@@ -289,3 +289,46 @@ At first, I found it difficult to understand how the outer and inner loops work 
 
 Tomorrow I will learn **Triangle Patterns** in Java, including left triangle, right triangle, inverted triangle, number triangle, and Floyd's Triangle. I will continue practicing pattern problem to improve my programming logic.
 
+----------------------------------------------------------------------------------------------------------------------
+
+## 📆 Day 8
+
+
+📚 What I Learned Today
+
+
+Today I learned advanced pattern printing using nested loops in loops in Java. At first, I found it difficult to understand how patterns are created, but after practicing different examples, I understood that the outer loop controls the rows and the inner loop controls what gets printed in each row. This practice improved my logic and helped me become more comfortable with nested loops.
+
+
+ 💻 Programs I Practiced
+
+
+ - Star Triangle Pattern
+ - Inverted Star Triangle
+ - Right-Aligned Triangle
+ - Number Triangle
+ - Repeated Number Triangle
+ - Floyd's Triangle
+ - Alphabet Triangle
+
+
+ ## 🎯 What I Understood
+
+
+ - How nested loops work together to create patterns.
+ - The role of the outer loop in controlling rows.
+ - The role of the inner loop in controlling columns and characters.
+ - How spaces and symbols are used to create different pattern designs.
+ - Pattern-solving improves logical thinking and problem-solving skills.
+
+
+## 🚀 Challenges I faced
+
+
+Initially, I was confused about how to print spaces and align different patterns correctly. After tracing the loops step and practicing multiple patterns, I become more confident in solving pattern-based problems.
+
+
+### 🎯 Next Goal
+
+
+Tomorrow I will start learning **Arrays in java**. I will understand how arrays are declared, Initialized, traversed, and used to solve basic programming problems.
