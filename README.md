@@ -250,13 +250,13 @@ In the next lesson, I will learn the **do-while loop**, along with `break` and `
 #  📆 Day 7 - Nested loop
 
 
- 📚 What I Learned Today
+##  📚 What I Learned Today
 
 
  Today I learned about **Nested Loops** in Java. I understood that a nested loop is a loop inside another loop, where the outer loop controls the number of rows and the inner loop controls the number of columns. I practiced different pattern programs and learned how nested loops are used to print starts and numbers. This topic helped me improve my logical thinking and prepared me for more advanced pattern problems.
 
 
- 💻 Programs I Practiced
+## 💻 Programs I Practiced
 
 
  - Print rows and columns using nested loops.
@@ -294,13 +294,13 @@ Tomorrow I will learn **Triangle Patterns** in Java, including left triangle, ri
 ## 📆 Day 8
 
 
-📚 What I Learned Today
+## 📚 What I Learned Today
 
 
 Today I learned advanced pattern printing using nested loops in loops in Java. At first, I found it difficult to understand how patterns are created, but after practicing different examples, I understood that the outer loop controls the rows and the inner loop controls what gets printed in each row. This practice improved my logic and helped me become more comfortable with nested loops.
 
 
- 💻 Programs I Practiced
+##  💻 Programs I Practiced
 
 
  - Star Triangle Pattern
@@ -332,3 +332,45 @@ Initially, I was confused about how to print spaces and align different patterns
 
 
 Tomorrow I will start learning **Arrays in java**. I will understand how arrays are declared, Initialized, traversed, and used to solve basic programming problems.
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+   ## 📆 Day 9
+
+ ##  📚 What I Learned Today
+
+ Today i started learning about **Arrays in Java**. I understood that an array is used to store multiple values of the same data type in a single variable. I learned how to declare, create, initialize, and access array elements using their index. I also practiced taking input from the user and printing array elements using different loops.
+
+ ## 💻 Programs I Practiced
+
+ - Array Declaration
+ - Array Initilization
+ - Print Array Elements
+ - User Input in Array
+ - Traverse Array using 'for' loop
+ - Traverse Array using 'for-each' loop
+ - Print First and Last element
+ - Find Array Length
+
+    ## 🎯 What I Understood
+
+
+ - What an array is and why it is used.
+ - How array indexing works.
+ - Difference between array declaration and initilization.
+ - How to access array elements using indexes.
+ - How to traverse an array using 'for' and 'for-each' loops.
+ - How arrays helps organize and manage multiple values efficiently.
+
+
+  ## 🚀 Challenges I faced
+
+  Initially, I was confused about why array indexing starts from **0** instead of **1**. After writing a few programs and accessing different elements, I understood how Java stores array elements and why zero-based indexing is used.
+
+
+  ## 🎯 Next Goal
+
+  Tomorrow I will practice more array problems such as finding the largest element, smallest element, sum, average, searching an element, and reversing an array.
+  
