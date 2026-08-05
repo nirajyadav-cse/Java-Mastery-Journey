@@ -42,7 +42,7 @@ This repository is my personal Java learning journey. I created it to track my d
 
 
 
-   ##  📆 Day 2
+   ##  📆 Day 2 : Variable, Data Types
 
 📚 What I Learned Today
 
@@ -85,7 +85,7 @@ Every day I am becoming more comfortable with Java. I know I am still a beginner
 
 
 
-## 📆 Day 3
+## 📆 Day 3 : Data Types
 
 📚 What I Learned Today
 
@@ -291,7 +291,7 @@ Tomorrow I will learn **Triangle Patterns** in Java, including left triangle, ri
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## 📆 Day 8
+## 📆 Day 8 : Advanced from of Nested loops
 
 
 ## 📚 What I Learned Today
@@ -337,7 +337,7 @@ Tomorrow I will start learning **Arrays in java**. I will understand how arrays 
 ----------------------------------------------------------------------------------------------------------------------
 
 
-   ## 📆 Day 9
+   ## 📆 Day 9 : Arrays in Java
 
  ##  📚 What I Learned Today
 
