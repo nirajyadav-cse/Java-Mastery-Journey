@@ -1,9 +1,11 @@
 # 🚀 Java Mastery Journey
  
 Hi! I'm Niraj Yadav, a B.Tech CSE student.
-This repository is my personal Java learning journey. I created it to track my daily progress , practice coding consistently, build a strong foundation in java before moving on to DSA, LeetCode, and software development.
+This repository is my personal Java learning journey. I created it to track my daily progress , practice coding consistently, build a strong foundation in java before moving on to DSA, LeetCode, and software development
+
 
 ## 📆 Day 1
+
 
 ### Topics Learned
 
