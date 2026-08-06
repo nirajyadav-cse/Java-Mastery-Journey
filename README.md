@@ -374,3 +374,60 @@ Tomorrow I will start learning **Arrays in java**. I will understand how arrays 
 
   Tomorrow I will practice more array problems such as finding the largest element, smallest element, sum, average, searching an element, and reversing an array.
   
+----------------------------------------------------------------------------------------------------------------------
+
+
+ ## 📆 Day 10 : Solving different array problems in Java
+
+
+
+ ##  📚 What I Learned Today
+
+
+
+ Today I practiced solving different array problems in Java. I learned how to find the sum and average of array elements, identify the largest and smallest values, search for an element, reverse an array, and count even and odd numbers. These programs helped me understand how to use loops and conditions effectively with arrays.
+
+
+
+
+## 💻 Programs I Practiced
+
+
+
+- Sum of Array Elements
+- Average of Array Elements
+- Find Largest Element
+- Find Smallest Element
+- Linear Search
+- Reverse Array
+- Count Even Numbers
+- Count Odd Numbers
+
+
+
+## 🎯 What I Understood
+
+
+
+- How to traverse an array using loops.
+- How to compare elements to find the maximum and minimum values.
+- How linear search works.
+- How to reverse an array using a loop.
+- How to count even and odd numbers in an array.
+- How arrays help solve real programming problems.
+
+
+## 🚀 Challenges I Faced
+
+
+At first, I found it difficult to compare array elements while finding the largest and smallest values. I also took some time to understand the logic behind reversing an array and searching for an element. After practicing these programs, I became more confident in working with arrays.
+
+
+## 🎯 Next Goal
+
+
+Tomorrow I will learn more advanced array concepts such as sorting an array, finding the second largest element, removing duplicate elements, and solving more array-based programming problems.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
