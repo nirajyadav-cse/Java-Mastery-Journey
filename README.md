@@ -433,3 +433,45 @@ Tomorrow I will learn more advanced array concepts such as sorting an array, fin
 
 
 ----------------------------------------------------------------------------------------------------------------------
+
+ ## 📆 Day 11 : Advanced array problems
+
+
+ ## 📚 What I Learned Today
+
+
+ Today I practiced more advanced array problems in Java. I learned how to find the second largest and second smallest elements in an array, check whether an array is sorted, copy one array into another, merge two arrays, count positive, negative, and zero values, and find the frequency of an element. These programs helped me improve my logical thinking and become more confident in solving array-based problems.
+
+
+
+ ## 💻 Programs I Practiced
+
+
+- Find Second Largest Element
+- Find Second Smallest Element
+- Check if Array is Sorted
+- Copy One Array to Another
+- Merge Two Arrays
+- Count Positive, Negative, and Zero Elements
+- Find Frequency of an Element
+  
+
+## 🎯 What I Understood
+
+
+- How to compare array elements efficiently.
+- How to solve common array problems using loops and conditions.
+- How to work with more than one array in a program.
+- How to check and process array data step by step.
+- How regular practice improves problem-solving skills.
+
+
+  ## 🚀 Challenges I Faced
+
+The second largest and second smallest element programs were a little challenging because I had to update two values at the same time while traversing the array. After practicing and understanding the logic, I was able to solve these problems more confidently.
+
+
+## 🎯 Next Goal
+
+Tomorrow I will start learning **Methods (Functions) in Java**. I will understand how methods work, how to pass parameters, return values, and write reusable code.
+
