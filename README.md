@@ -475,3 +475,53 @@ The second largest and second smallest element programs were a little challengin
 
 Tomorrow I will start learning **Methods (Functions) in Java**. I will understand how methods work, how to pass parameters, return values, and write reusable code.
 
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+ ## 📆 Day 12 : Methods in Java
+
+
+
+ ## 📚 What I Learned Today
+
+ 
+
+ Today I started learning about **Methods in Java**. I understood that a method is a block of code that is used to perform a specific task. Methods help make a program more organized and allow us to reuse the same code whenever needed.
+
+I learned how to create a method, how to call a method from 'Main()', and how a method executes step by step. I also understood why methods are useful when a program becomes larger and more complex.
+
+
+## 💻 Programs I Practiced
+
+
+- Create and call a simple method
+- Greet using a method
+- Add two numbers using a method
+- Check even or odd using a method
+- Print a multiplication table using a method
+- Find the square of a number using a method
+  
+
+## 🎯 What I Understood
+
+
+- What a method is and why it is used.
+- How to create and call a method.
+- How methods help avoid writing the same code again.
+- How 'static' methods can be called from 'main()'.
+- What 'void' means in a method.
+- How program execution moves from 'main()' to a method and back.
+
+
+## 🚀 Challenges I Faced
+
+
+At first, I was a little confused about how a method is called and how the program moves from 'main()' to the method. After practicing a few simple examples, I understood the flow and how methods make the code easier to manage.  
+
+
+
+## 🎯 Next Goal
+
+
+Next, I will learn about **parameters, arguments, and return values** in methods and practice writing methods that can take input and return results.
