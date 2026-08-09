@@ -523,5 +523,61 @@ At first, I was a little confused about how a method is called and how the progr
 
 ## 🎯 Next Goal
 
+# 📅 Day 13 : Methods in Java
 
-Next, I will learn about **parameters, arguments, and return values** in methods and practice writing methods that can take input and return results.
+
+## 📚 What I Learned Today
+
+
+Today I continued learning about **Methods in Java**. I learned how to pass values to a method using parameters and arguments. I also learned how a method can return a value using the 'return' keyword. I practiced creating methods that take one or more inputs, perform some operation, and return the result. This helped me understand how methods can make programs more reusable and organized.
+
+
+
+## 💻 Programs I Practiced
+
+
+- Method with one parameter
+- Method with multiple parameters
+- Add two numbers using a method
+- Find square of a number
+- Find maximum of two numbers
+- Check whether a number is even or odd
+- Find factorial using a method
+- Multiplication table using a method
+- Find largest element in an array using a method
+- Find sum of array elements using a method
+
+
+
+## 🎯 What I Understood
+
+
+
+- Difference between parameters and arguments.
+- How to pass values to a method.
+- How the `return` keyword works.
+- Difference between `void` and a method that returns a value.
+- How to create methods with multiple parameters.
+- How methods can make code reusable.
+- How methods can be used with arrays.
+
+
+
+## 🚀 Challenges I Faced
+
+
+At first, I was a little confused about the difference between parameters and arguments. I also had to understand how the returned value comes back to the calling code. After practicing different examples, I understood the flow much better.
+
+
+
+## 🎯 Next Goal
+
+
+Next, I will learn **method overloading** and understand how multiple methods can have the same name with different parameters.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
