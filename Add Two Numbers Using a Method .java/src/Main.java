@@ -1,18 +1,14 @@
 public class Main {
 
-    static void add() {
-
-        int a = 10;
-        int b = 20;
-
-        int sum = a + b;
-
-        System.out.println("Sum = " + sum);
+    static int add(int a, int b) {
+        return a + b;
     }
 
     public static void main(String[] args) {
 
-        add();
+        int result = add(10, 20);
+
+        System.out.println("Sum = " + result);
 
     }
 }
