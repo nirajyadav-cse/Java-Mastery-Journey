@@ -579,5 +579,54 @@ Next, I will learn **method overloading** and understand how multiple methods ca
 
 ----------------------------------------------------------------------------------------------------------------------
 
+# 📅 Day 14 :Method Overloading
+
+
+
+## 📚 What I Learned Today
+
+
+
+Today I learned about **Method Overloading in Java**. I understood that we can create multiple methods with the same name, but their parameters should be different. I practiced changing the number of parameters, data types, and parameter combinations. I also learned how Java identifies which overloaded method should be called based on the arguments passed to it.
+
+
+
+## 💻 Programs I Practiced
+
+
+
+- Add numbers using method overloading
+- Multiply numbers using method overloading
+- Find area of different shapes using method overloading
+- Display different types of values using method overloading
+- Find maximum of two and three numbers
+- Greet using different parameters
+
+
+
+## 🎯 What I Understood
+
+
+
+- What method overloading means.
+- How to create multiple methods with the same name.
+- How changing the parameters creates an overloaded method.
+- How Java chooses the correct method based on the arguments.
+- Why changing only the return type does not create method overloading.
+- How method overloading makes code easier to understand and reuse.
+
+
+
+## 🚀 Challenges I Faced
+
+
+At first, I was confused about how multiple methods can have the same name. After practicing different examples, I understood that Java looks at the number and type of parameters to decide which method should be called.
+
+
+
+## 🎯 Next Goal
+
+
+Next, I will start learning **Strings in Java** and practice different string operations and problems.
 
 
