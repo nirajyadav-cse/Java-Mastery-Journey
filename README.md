@@ -630,3 +630,60 @@ At first, I was confused about how multiple methods can have the same name. Afte
 Next, I will start learning **Strings in Java** and practice different string operations and problems.
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 15 :Strings in Java
+
+
+ 
+## 📚 What I Learned Today
+
+
+Today I started learning about **Strings in Java**. I learned that a String is a sequence of characters and that each character has an index starting from 0.I practiced different String operations such as finding the length, accessing individual characters, changing the case, removing extra spaces, joining Strings, and comparing two Strings.
+
+
+
+## 💻 Programs I Practiced
+
+
+- Print a String
+- Find String Length
+- Print Each Character of a String
+- Convert String to Uppercase
+- Convert String to Lowercase
+- Remove Extra Spaces using 'trim()'
+- Compare Two Strings
+- Join Two Strings
+- Reverse a String
+- Check Palindrome
+- Count Vowels in a String
+
+
+
+## 🎯 What I Understood
+
+
+- What a String is.
+- How String indexing works.
+- How to use 'length()' to find the number of characters.
+- How to use 'charAt()' to access a character.
+- How to convert Strings to uppercase and lowercase.
+- How to compare Strings using 'equals()'.
+- How to join two Strings.
+- How loops can be used to solve String problems.
+
+
+
+## 🚀 Challenges I Faced
+
+
+At first, I was a little confused about String indexing and how it is different from the length of a String. I also learned that 'equals()' should be used when comparing the contents of Strings. Practicing different examples helped me understand these concepts better.
+
+
+
+## 🎯 Next Goal
+
+
+Next, I will practice more String problems such as reversing a String, checking for palindromes, counting vowels and consonants, finding duplicate characters, and finding the frequency of characters.
+
+
