@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
 
         String text = "NIRAJ";
@@ -6,13 +7,10 @@ public class Main {
         String reverse = "";
 
         for (int i = text.length() - 1; i >= 0; i--) {
-
             reverse = reverse + text.charAt(i);
-
         }
 
-        System.out.println("Original = " + text);
-        System.out.println("Reverse = " + reverse);
-
+        System.out.println("Original String = " + text);
+        System.out.println("Reverse String = " + reverse);
     }
 }
