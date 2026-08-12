@@ -687,3 +687,61 @@ At first, I was a little confused about String indexing and how it is different 
 Next, I will practice more String problems such as reversing a String, checking for palindromes, counting vowels and consonants, finding duplicate characters, and finding the frequency of characters.
 
 
+----------------------------------------------------------------------------------------------------------------------
+# 📅 Day 16 : String problems in Java
+
+
+
+## 📚 What I Learned Today
+
+
+
+Today I practiced different **String problems in Java**. I used loops, conditions, and String methods to work with individual characters and solve different problems. This helped me understand how Strings can be processed character by character.
+
+
+
+## 💻 Programs I Practiced
+
+
+
+* Reverse a String
+* Check whether a String is a Palindrome
+* Count Vowels and Consonants
+* Count Digits and Spaces
+* Find Frequency of a Character
+* Find Duplicate Characters
+* Remove Spaces from a String
+* Compare Two Strings
+* Search for a Character
+* Count Words in a String
+
+
+
+## 🎯 What I Understood
+
+
+
+* How to traverse a String using a loop.
+* How to access individual characters using `charAt()`.
+* How to reverse a String.
+* How to check whether a String is a palindrome.
+* How to count vowels, consonants, digits, and spaces.
+* How to compare two Strings using `equals()`.
+* How to use String methods together with loops and conditions.
+
+
+
+## 🚀 Challenges I Faced
+
+
+Some of the problems were a little difficult at first, especially finding duplicate characters and counting the frequency of a character. I practiced the logic step by step and understood how to check each character in a String.
+
+
+
+## 🎯 Next Goal
+
+
+Next, I will practice more advanced String problems such as removing duplicate characters, checking anagrams, finding the first non-repeating character, and learning about 'StringBuilder'.
+
+
+
