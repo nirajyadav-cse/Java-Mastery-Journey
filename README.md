@@ -743,5 +743,52 @@ Some of the problems were a little difficult at first, especially finding duplic
 
 Next, I will practice more advanced String problems such as removing duplicate characters, checking anagrams, finding the first non-repeating character, and learning about 'StringBuilder'.
 
+----------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 17
+
+## 📚 What I Learned Today
+
+Today I practiced more advanced **String problems in Java**. I used loops, conditions, and String methods to solve problems involving characters, frequency, duplicate values, words, and comparisons. These problems were more challenging than the previous String exercises, but they helped me improve my logical thinking and understand how to process a String step by step.
+
+
+
+## 💻 Programs I Practiced
+
+* Remove Duplicate Characters
+* Find First Non-Repeating Character
+* Find First Repeating Character
+* Find Frequency of Every Character
+* Check Whether Two Strings are Anagrams
+* Count Words in a Sentence
+* Find the Longest Word
+* Reverse Each Word in a Sentence
+* Check Whether a String Contains Only Digits
+* Toggle the Case of Characters
+
+
+
+## 🎯 What I Understood
+
+* How to check and process each character of a String.
+* How to find the frequency of characters.
+* How to identify duplicate and non-repeating characters.
+* How to compare two Strings and check for anagrams.
+* How to work with words inside a sentence.
+* How to reverse individual words.
+* How to check whether characters are digits or letters.
+* How to change uppercase characters to lowercase and vice versa.
+
+
+
+## 🚀 Challenges I Faced
+
+Some of the problems were challenging, especially finding duplicate characters, character frequency, and checking anagrams. I had to use loops and conditions carefully and think about how each character should be processed.
+
+
+
+## 🎯 Next Goal
+
+Next, I will start learning **Object-Oriented Programming in Java**, beginning with **Classes and Objects**. I will learn how real-world objects can be represented in Java programs.
 
 
