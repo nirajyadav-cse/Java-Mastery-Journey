@@ -791,4 +791,49 @@ Some of the problems were challenging, especially finding duplicate characters, 
 
 Next, I will start learning **Object-Oriented Programming in Java**, beginning with **Classes and Objects**. I will learn how real-world objects can be represented in Java programs.
 
+----------------------------------------------------------------------------------------------------------------------
+
+
+# 📅 Day 18
+
+## 📚 What I Learned Today
+
+Today I started learning about **Object-Oriented Programming (OOP) in Java**. I learned about classes and objects and understood how they are used to represent real-world things in a Java program. I learned that a class acts like a blueprint, while an object is an actual instance created from that class. I also practiced creating classes, creating objects, assigning values to object variables, and calling methods using objects.
+
+
+
+## 💻 Programs I Practiced
+
+* Create a Student Class and Object
+* Create a Car Class and Object
+* Create an Employee Class and Object
+* Calculate Rectangle Area using a Class
+* Create a Calculator Class
+* Create a BankAccount Class
+
+
+
+## 🎯 What I Understood
+
+* What Object-Oriented Programming means.
+* What a class is and why it is used.
+* What an object is.
+* Difference between a class and an object.
+* How to create an object using the `new` keyword.
+* How to access variables using an object.
+* How to call methods using an object.
+* How classes can represent real-world entities.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was a little confused about the difference between a class and an object. After creating different examples such as Student, Car, and Employee, I understood that a class is a blueprint and an object is an actual instance of that class.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Constructors in Java** and understand how constructors are used to initialize objects when they are created.
+
 
