@@ -837,3 +837,47 @@ At first, I was a little confused about the difference between a class and an ob
 Next, I will learn about **Constructors in Java** and understand how constructors are used to initialize objects when they are created.
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 19
+
+## 📚 What I Learned Today
+
+Today I learned about **Constructors in Java**. I understood that a constructor is a special part of a class that is automatically called when an object is created.I learned how constructors can be used to initialize the values of an object instead of assigning them separately after creating the object. I also practiced parameterized constructors and constructor overloading.
+
+
+
+## 💻 Programs I Practiced
+
+* Initialize Student details using a constructor
+* Initialize Car details using a constructor
+* Initialize Employee details using a constructor
+* Calculate Rectangle Area using a constructor
+* Create a Bank Account using a constructor
+* Constructor Overloading with different parameters
+
+
+
+## 🎯 What I Understood
+
+* What a constructor is and why it is used.
+* How a constructor is automatically called when an object is created.
+* How to create a no-argument constructor.
+* How to create a parameterized constructor.
+* How the `this` keyword is used to refer to object variables.
+* Difference between a constructor and a method.
+* How constructor overloading works.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between a constructor and a method because both contain code inside a class. After practicing different examples, I understood that constructors are mainly used to initialize objects and are called automatically when an object is created.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Encapsulation and Access Modifiers in Java** and understand how to control access to the data inside a class.
+
+
