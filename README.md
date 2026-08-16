@@ -880,4 +880,52 @@ At first, I was confused about the difference between a constructor and a method
 
 Next, I will learn about **Encapsulation and Access Modifiers in Java** and understand how to control access to the data inside a class.
 
+----------------------------------------------------------------------------------------------------------------------
+
+
+# 📅 Day 20
+
+
+## 📚 What I Learned Today
+
+
+Today I learned about **Encapsulation and Access Modifiers in Java**. I understood how encapsulation is used to protect the data inside a class and provide controlled access to it. I learned about 'private', 'public', 'protected', and default access. I also learned how **getters and setters** are used to access and modify private variables.
+
+
+
+## 💻 Programs I Practiced
+
+- Student class using encapsulation
+- Bank Account using private data and methods
+- Employee class with salary validation
+- Rectangle class using getters and setters
+- Product class with price and quantity validation
+
+
+
+## 🎯 What I Understood
+
+- What encapsulation means in Java.
+- Why data should sometimes be kept private.
+- How access modifiers control access to class members.
+- How to use `private` variables.
+- How getters are used to read private data.
+- How setters are used to modify private data.
+- How to add validation inside setters and methods.
+- How the `this` keyword is used with setters.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about why we need getters and setters when we can directly access variables. After practicing encapsulation, I understood that private variables provide better control and allow us to validate data before changing it.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Inheritance in Java** and understand how one class can inherit properties and methods from another class.
+
+
+
 
