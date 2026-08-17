@@ -926,6 +926,49 @@ At first, I was confused about why we need getters and setters when we can direc
 
 Next, I will learn about **Inheritance in Java** and understand how one class can inherit properties and methods from another class.
 
+----------------------------------------------------------------------------------------------------------------------
 
 
+# 📅 Day 21
+
+## 📚 What I Learned Today
+
+Today I learned about **Inheritance in Java**. I understood how one class can inherit properties and methods from another class. Inheritance helps reduce repeated code and makes programs more organized and reusable.I learned about parent and child classes, the 'extends' keyword, different types of inheritance, and basic method overriding.
+
+
+
+## 💻 Programs I Practiced
+
+- Animal and Dog using inheritance
+- Vehicle and Car using inheritance
+- Person and Student using inheritance
+- Employee and Manager using inheritance
+- Multilevel inheritance
+- Method overriding
+
+
+
+## 🎯 What I Understood
+
+- What inheritance means in Java.
+- Difference between a parent class and a child class.
+- How to use the `extends` keyword.
+- How a child class can use properties and methods of its parent class.
+- How inheritance helps in code reusability.
+- What single, multilevel, and hierarchical inheritance mean.
+- Why Java does not support multiple inheritance using classes.
+- Basic idea of method overriding.
+- What an "is-a" relationship means.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was a little confused about how the child class can use the methods and variables of the parent class. After creating examples like Animal-Dog and Vehicle-Car, I understood how inheritance allows the child class to reuse the features of the parent class.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn more about **Method Overriding and the 'super' keyword**. I will also understand how a child class can use or modify the behavior of its parent class.
 
