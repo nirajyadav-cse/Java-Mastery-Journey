@@ -972,3 +972,46 @@ At first, I was a little confused about how the child class can use the methods 
 
 Next, I will learn more about **Method Overriding and the 'super' keyword**. I will also understand how a child class can use or modify the behavior of its parent class.
 
+----------------------------------------------------------------------------------------------------------------------
+# 📅 Day 22
+
+## 📚 What I Learned Today
+
+Today I continued learning about **Inheritance in Java** and learned how to use the 'super' keyword with parent and child classes. I learned that 'super' is used to access members of the immediate parent class. I practiced using it with parent variables, methods, and constructors. I also practiced method overriding and understood how a child class can use the parent's implementation along with its own behavior.
+
+
+
+## 💻 Programs I Practiced
+
+- Use `super` to access a parent class variable
+- Use `super` to call a parent class method
+- Use `super()` to call a parent class constructor
+- Person and Student using `super`
+- Vehicle and Car using `super`
+- Employee and Manager with method overriding
+- Constructor and method overriding together
+
+
+
+## 🎯 What I Understood
+
+- What the `super` keyword means.
+- How to access a parent class variable using `super`.
+- How to call a parent class method using `super`.
+- How `super()` is used to call a parent constructor.
+- How method overriding works with inheritance.
+- Difference between `this` and `super`.
+- Why the parent constructor executes before the child constructor.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was a little confused about the difference between `this` and `super`. After practicing with parent and child classes, I understood that `this` refers to the current class/object, while `super` is used to access the immediate parent class.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Polymorphism in Java** and understand the difference between compile-time and runtime polymorphism.
+
