@@ -972,8 +972,9 @@ At first, I was a little confused about how the child class can use the methods 
 
 Next, I will learn more about **Method Overriding and the 'super' keyword**. I will also understand how a child class can use or modify the behavior of its parent class.
 
-----------------------------------------------------------------------------------------------------------------------
-# 📅 Day 22
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 22:Inheritance in Java
 
 ## 📚 What I Learned Today
 
@@ -1014,4 +1015,53 @@ At first, I was a little confused about the difference between `this` and `super
 ## 🎯 Next Goal
 
 Next, I will learn about **Polymorphism in Java** and understand the difference between compile-time and runtime polymorphism.
+
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 23 :Polymorphism in Java
+
+## 📚 What I Learned Today
+
+Today I learned about **Polymorphism in Java**. I understood that polymorphism means one thing can have different forms or behaviors. I learned the two main types of polymorphism in Java: **compile-time polymorphism** and **runtime polymorphism**. I also practiced method overloading, method overriding, and dynamic method dispatch.
+
+
+
+## 💻 Programs I Practiced
+
+- Calculator using method overloading
+- Area calculation using method overloading
+- Animal, Dog, and Cat using runtime polymorphism
+- Vehicle, Car, and Bike using runtime polymorphism
+- Payment system using UPI, Card, and Cash
+- Employee, Manager, and Developer using polymorphism
+
+
+
+## 🎯 What I Understood
+
+- What polymorphism means in Java.
+- Difference between compile-time and runtime polymorphism.
+- How method overloading works.
+- How method overriding works.
+- How the same method can behave differently for different objects.
+- What dynamic method dispatch means.
+- How a parent class reference can refer to a child class object.
+- Difference between method overloading and method overriding.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between overloading and overriding. After practicing different examples, I understood that overloading uses the same method name with different parameters, while overriding happens when a child class provides its own implementation of a parent method. I also practiced statements like:
+
+```java
+Animal a = new Dog();
+```
+and understood how Java decides which overridden method to execute at runtime.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Abstraction in Java**, including abstract classes and abstract methods.
 
