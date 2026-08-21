@@ -1065,3 +1065,47 @@ and understood how Java decides which overridden method to execute at runtime.
 
 Next, I will learn about **Abstraction in Java**, including abstract classes and abstract methods.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 24 : Abstraction in Java 
+
+## 📚 What I Learned Today
+
+Today I learned about **Abstraction in Java**. I understood how abstraction helps hide unnecessary implementation details and shows only the important functionality to the user.I learned about abstract classes and abstract methods and practiced creating child classes that provide their own implementation of abstract methods.
+
+
+
+## 💻 Programs I Practiced
+
+- Animal using an abstract class
+- Vehicle using abstraction
+- Shape using an abstract class
+- Payment system using abstraction
+- Employee using abstraction
+- Person and Student using an abstract class and constructor
+
+
+
+## 🎯 What I Understood
+
+- What abstraction means in Java.
+- What an abstract class is.
+- What an abstract method is.
+- Why we cannot directly create an object of an abstract class.
+- How a child class implements an abstract method.
+- Difference between abstract and normal methods.
+- How an abstract class can contain variables, constructors, and normal methods.
+- How abstraction can be combined with inheritance and polymorphism.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about why we need an abstract class if we cannot create its object. After practicing examples like Animal, Vehicle, and Payment, I understood that an abstract class provides a common structure while allowing each child class to implement its own behavior.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Interfaces in Java** and understand how interfaces are different from abstract classes and how they are used to achieve abstraction and multiple inheritance.
+
