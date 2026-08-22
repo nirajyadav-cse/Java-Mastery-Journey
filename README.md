@@ -1109,3 +1109,48 @@ At first, I was confused about why we need an abstract class if we cannot create
 
 Next, I will learn about **Interfaces in Java** and understand how interfaces are different from abstract classes and how they are used to achieve abstraction and multiple inheritance.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 25 :Interfaces in Java
+
+## 📚 What I Learned Today
+
+Today I learned about **Interfaces in Java**. I understood that an interface acts like a contract that tells a class what methods it should provide. I learned how to create an interface using the `interface` keyword and how a class implements it using the `implements` keyword. I also learned how a class can implement multiple interfaces and how interfaces can be used with runtime polymorphism.
+
+
+
+## 💻 Programs I Practiced
+
+- Animal interface with Dog and Cat
+- Payment interface with UPI, Card, and Cash
+- Vehicle interface with Car and Bike
+- Smartphone implementing Camera and MusicPlayer interfaces
+- Student extending Person and implementing an interface
+- Payment interface with runtime polymorphism
+
+
+
+## 🎯 What I Understood
+
+- What an interface is and why it is used.
+- How to create an interface using the `interface` keyword.
+- How to implement an interface using `implements`.
+- How interface methods are implemented by classes.
+- Why interface methods are implemented as `public`.
+- How a class can implement multiple interfaces.
+- How interfaces support abstraction.
+- How interfaces can be used with runtime polymorphism.
+- Difference between an interface and an abstract class.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between `extends` and `implements`. After practicing different examples, I understood that `extends` is mainly used when a class inherits from another class, while `implements` is used when a class follows an interface. I also understood how one class can implement multiple interfaces.
+
+
+
+## 🎯 Next Goal
+
+Next, I will start learning about **Exception Handling in Java**, including `try`, `catch`, `finally`, `throw`, and `throws`.
+
