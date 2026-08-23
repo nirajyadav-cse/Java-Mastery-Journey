@@ -1154,3 +1154,47 @@ At first, I was confused about the difference between `extends` and `implements`
 
 Next, I will start learning about **Exception Handling in Java**, including `try`, `catch`, `finally`, `throw`, and `throws`.
 
+---------------------------------------------------------------------------------------------------------------------
+# 📅 Day 26  : Exception Handling in Java
+
+
+## 📚 What I Learned Today
+
+Today I learned about **Exception Handling in Java**. I understood how exceptions can occur during program execution and how they can be handled without suddenly stopping the entire program. I learned how to use `try`, `catch`, `finally`, `throw`, and `throws` and practiced handling different types of exceptions.
+
+
+
+## 💻 Programs I Practiced
+
+- Division by zero using exception handling
+- Array index exception handling
+- Number format exception handling
+- Multiple `catch` blocks
+- Using the `finally` block
+- Age validation using `throw`
+- Handling invalid input using `Scanner`
+
+
+
+## 🎯 What I Understood
+
+- What an exception is and why it occurs.
+- How the `try` block is used for code that may cause an exception.
+- How the `catch` block handles exceptions.
+- How the `finally` block is used for code that should execute afterward.
+- Difference between `throw` and `throws`.
+- How to handle different exceptions using multiple `catch` blocks.
+- How to handle invalid user input.
+- Common exceptions such as `ArithmeticException`, `ArrayIndexOutOfBoundsException`, and `NumberFormatException`.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between `throw` and `throws`. After practicing different examples, I understood that `throw` is used to explicitly throw an exception, while `throws` is used in a method declaration to indicate that the method may pass an exception to its caller.I also practiced handling errors caused by incorrect user input.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Collections in Java**, starting with `ArrayList`, and understand how collections are different from normal arrays.
