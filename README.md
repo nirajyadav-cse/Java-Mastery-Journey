@@ -1198,3 +1198,55 @@ At first, I was confused about the difference between `throw` and `throws`. Afte
 ## 🎯 Next Goal
 
 Next, I will learn about **Collections in Java**, starting with `ArrayList`, and understand how collections are different from normal arrays.
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+# 📅 Day 27 : Java Collection Framework
+
+## 📚 What I Learned Today
+
+Today I started learning about the **Java Collection Framework** and focused mainly on **ArrayList**.I learned that an ArrayList is different from a normal array because its size can change dynamically. I practiced adding, accessing, updating, removing, and searching elements in an ArrayList.
+
+
+
+## 💻 Programs I Practiced
+
+- Creating and using an ArrayList
+- Adding elements using `add()`
+- Accessing elements using `get()`
+- Updating elements using `set()`
+- Removing elements using `remove()`
+- Finding the size using `size()`
+- Searching elements using `contains()`
+- Checking an empty list using `isEmpty()`
+- Taking user input and storing it in an ArrayList
+- Finding the largest and smallest number
+- Removing even numbers from an ArrayList
+
+
+
+## 🎯 What I Understood
+
+- What the Java Collection Framework is.
+- What an ArrayList is.
+- Difference between an array and an ArrayList.
+- How an ArrayList can grow and shrink dynamically.
+- How to add, access, update, and remove elements.
+- How to search for an element using `contains()`.
+- How to find the number of elements using `size()`.
+- How to use loops with an ArrayList.
+- Why `Integer` is used instead of `int` in `ArrayList<Integer>`.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between an array and an ArrayList and why ArrayList uses methods like `add()`, `get()`, and `remove()`. After practicing different programs, I understood that arrays have a fixed size, while ArrayLists can change their size dynamically.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **LinkedList, HashSet, and HashMap** and understand how they are different from ArrayList.
+
