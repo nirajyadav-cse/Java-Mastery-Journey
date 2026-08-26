@@ -1250,3 +1250,53 @@ At first, I was confused about the difference between an array and an ArrayList 
 
 Next, I will learn about **LinkedList, HashSet, and HashMap** and understand how they are different from ArrayList.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 28
+
+## 📚 What I Learned Today
+
+Today I continued learning about the **Java Collection Framework**. I learned about `LinkedList`, `HashSet`, and `HashMap` and understood how each collection is used for different purposes.I practiced adding, removing, searching, updating, and iterating through elements in these collections.
+
+
+## 💻 Programs I Practiced
+
+- Creating and using a LinkedList
+- Adding and removing elements from a LinkedList
+- Using `addFirst()` and `addLast()`
+- Creating a HashSet with unique values
+- Removing duplicate values using HashSet
+- Searching elements in a HashSet
+- Creating a HashMap using key-value pairs
+- Searching and updating values in a HashMap
+- Iterating through a HashMap using `entrySet()`
+- Storing student names and marks using HashMap
+
+
+
+## 🎯 What I Understood
+
+- What a LinkedList is and how it works.
+- How LinkedList is different from ArrayList.
+- How HashSet stores only unique elements.
+- Why duplicate values are ignored in a HashSet.
+- What a HashMap is.
+- How HashMap stores data using key-value pairs.
+- How to add data using `put()`.
+- How to access data using `get()`.
+- How to check keys and values using `containsKey()` and `containsValue()`.
+- How to update and remove data from a HashMap.
+- How to loop through a HashMap using `entrySet()`.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about when to use ArrayList, LinkedList, HashSet, and HashMap. After practicing different examples, I understood that each collection has a different purpose. I understood that ArrayList and LinkedList store elements as a list, HashSet is useful when duplicate values are not required, and HashMap is useful for storing data in key-value pairs.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **File Handling in Java** and practice creating, reading, writing, and updating files using Java.
+
