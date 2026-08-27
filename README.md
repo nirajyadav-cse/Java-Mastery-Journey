@@ -1299,4 +1299,56 @@ At first, I was confused about when to use ArrayList, LinkedList, HashSet, and H
 ## 🎯 Next Goal
 
 Next, I will learn about **File Handling in Java** and practice creating, reading, writing, and updating files using Java.
+------------------------------------------------
+
+# 📅 Day 29
+
+## 📚 What I Learned Today
+
+Today I learned about **File Handling in Java**. I understood how Java can be used to create, read, write, update, and delete files.I also learned about `File`, `FileWriter`, `FileReader`, and `BufferedReader`. I practiced saving user data into a file and reading data from it.
+
+
+
+## 💻 Programs I Practiced
+
+- Creating a new file
+- Checking file information
+- Writing data into a file
+- Reading data from a file
+- Appending new data to an existing file
+- Deleting a file
+- Taking user input and saving it to a file
+- Counting lines in a file
+- Counting words in a file
+- Creating a simple student record file
+
+
+
+## 🎯 What I Understood
+
+- What file handling is and why it is useful.
+- How to create a file using the `File` class.
+- How to write data using `FileWriter`.
+- How to read data using `FileReader` and `BufferedReader`.
+- How to append data without deleting existing content.
+- How to delete a file using Java.
+- How to check whether a file exists.
+- How to use try-with-resources to automatically close resources.
+- How to save user input permanently in a text file.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was a little confused about the different classes used for file handling. After practicing, I understood that `File` is mainly used for file information and operations, while `FileWriter` and readers are used for writing and reading data.
+
+I also learned why handling `IOException` is important when working with files.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Generics and Lambda Expressions in Java** and understand how they make Java code more flexible and easier to work with.
+
+
 
