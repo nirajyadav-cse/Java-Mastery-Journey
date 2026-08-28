@@ -1351,4 +1351,57 @@ I also learned why handling `IOException` is important when working with files.
 Next, I will learn about **Generics and Lambda Expressions in Java** and understand how they make Java code more flexible and easier to work with.
 
 
+------------------------------------------------
+# 📅 Day 30
 
+## 📚 What I Learned Today
+
+Today I learned about **Generics and Lambda Expressions in Java**.
+
+I understood how generics allow us to write reusable code that can work with different data types while maintaining type safety.
+
+I also learned about lambda expressions and how they can make code shorter and easier to write, especially when working with functional interfaces and collections.
+
+
+
+## 💻 Programs I Practiced
+
+- Creating a generic class
+- Creating a generic method
+- Creating a generic key-value pair
+- Using generics with ArrayList
+- Creating a functional interface
+- Adding two numbers using a lambda expression
+- Checking whether a number is even using lambda
+- Finding the square of a number using lambda
+- Printing names using lambda and `forEach()`
+- Sorting numbers using lambda expressions
+
+
+
+## 🎯 What I Understood
+
+- What generics are and why they are useful.
+- How to create a generic class using `<T>`.
+- How to create a generic method.
+- How generics provide type safety.
+- What a functional interface is.
+- What a lambda expression is.
+- How lambda expressions can reduce the amount of code.
+- How to use lambda expressions with `forEach()`.
+- How to use lambda expressions for sorting.
+- Difference between normal methods and lambda expressions.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, the syntax of generics and lambda expressions was a little confusing. After practicing simple examples, I understood how `<T>` can be used for different data types and how lambda expressions work with functional interfaces.
+
+Using lambda expressions with ArrayList also helped me understand their practical use.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about the **Stream API in Java** and practice filtering, sorting, mapping, and processing collection data.
