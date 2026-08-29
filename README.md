@@ -1405,3 +1405,61 @@ Using lambda expressions with ArrayList also helped me understand their practica
 ## 🎯 Next Goal
 
 Next, I will learn about the **Stream API in Java** and practice filtering, sorting, mapping, and processing collection data.
+
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 31
+
+## 📚 What I Learned Today
+
+Today I learned about the **Stream API in Java**. I understood how streams can be used to process and work with data from collections in a cleaner and easier way.
+
+I practiced filtering, transforming, sorting, counting, and finding values from an ArrayList using streams and lambda expressions.
+
+
+
+## 💻 Programs I Practiced
+
+- Creating and using streams
+- Printing elements using `forEach()`
+- Filtering even numbers
+- Filtering odd numbers
+- Finding numbers greater than a given value
+- Finding squares using `map()`
+- Converting names to uppercase
+- Sorting numbers using streams
+- Counting elements using `count()`
+- Finding minimum and maximum values
+- Finding the sum using `reduce()`
+- Collecting filtered elements into a new list
+- Processing student marks using Stream API
+
+
+
+## 🎯 What I Understood
+
+- What the Stream API is and why it is useful.
+- How to create a stream from a collection.
+- How `filter()` is used to select elements.
+- How `map()` is used to transform elements.
+- How `sorted()` is used to sort data.
+- How `forEach()` is used to process each element.
+- How `count()` is used to count elements.
+- How `min()` and `max()` are used to find values.
+- How `collect()` is used to create a new collection.
+- How `reduce()` can be used to calculate a result such as a sum.
+- How lambda expressions work together with streams.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, the stream syntax looked a little confusing because multiple methods can be connected together.After practicing `filter()`, `map()`, `sorted()`, and `forEach()`, I started understanding how a stream pipeline works and how data moves from one operation to another.
+
+
+
+## 🎯 Next Goal
+
+Next, I will continue learning more advanced Java concepts and practice working with collections and other useful Java features.
+
+
