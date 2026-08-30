@@ -1462,4 +1462,53 @@ At first, the stream syntax looked a little confusing because multiple methods c
 
 Next, I will continue learning more advanced Java concepts and practice working with collections and other useful Java features.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 32
+
+## 📚 What I Learned Today
+
+Today I learned about **Multithreading in Java**. I understood how a Java program can perform multiple tasks using different threads.I learned how to create threads using the `Thread` class and `Runnable` interface. I also practiced using `start()`, `sleep()`, and `join()`.
+
+
+
+## 💻 Programs I Practiced
+
+- Creating a thread using the `Thread` class
+- Creating a thread using `Runnable`
+- Creating a thread using a lambda expression
+- Printing numbers using a thread
+- Using `sleep()` to pause a thread
+- Creating and running multiple threads
+- Giving names to threads
+- Using `join()` to wait for a thread to finish
+- Creating separate threads for even and odd numbers
+- Simulating a download using a thread
+
+
+
+## 🎯 What I Understood
+
+- What a thread is and why multithreading is useful.
+- How the main thread works in Java.
+- How to create a thread by extending the `Thread` class.
+- How to create a thread using `Runnable`.
+- The difference between `start()` and `run()`.
+- How `sleep()` temporarily pauses a thread.
+- How `join()` makes one thread wait for another thread.
+- How multiple threads can run independently.
+- How to give a thread a name and get its name.
+- How lambda expressions can be used with `Runnable`.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between `start()` and `run()`. After practicing, I understood that `start()` is used to start a new thread, while directly calling `run()` is just a normal method call. I also noticed that when multiple threads run together, their output order may change. This helped me understand that thread scheduling is not always predictable.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **Comparable, Comparator, and advanced collection operations** in Java.
 
