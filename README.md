@@ -1512,3 +1512,54 @@ At first, I was confused about the difference between `start()` and `run()`. Aft
 
 Next, I will learn about **Comparable, Comparator, and advanced collection operations** in Java.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 33
+
+## 📚 What I Learned Today
+
+Today I learned about **Comparable and Comparator in Java**. I understood how they are used to sort objects based on different properties.I practiced sorting students, employees, and products by things like name, marks, salary, age, and price.
+
+
+
+## 💻 Programs I Practiced
+
+- Sorting numbers using `Comparable`
+- Sorting students by marks
+- Sorting students by name
+- Sorting marks in descending order
+- Sorting employees by salary
+- Sorting employees by name
+- Sorting products by price
+- Sorting products by rating
+- Sorting objects using multiple `Comparator`s
+- Using `compareTo()` and `compare()`
+- Using lambda expressions with `Comparator`
+
+---
+
+## 🎯 What I Understood
+
+- What `Comparable` is and why it is used.
+- How to use the `compareTo()` method.
+- What natural ordering means.
+- What `Comparator` is and when it is useful.
+- How to use the `compare()` method.
+- How to sort custom objects.
+- How to sort the same objects using different conditions.
+- How to sort data in ascending and descending order.
+- How lambda expressions can make comparators shorter.
+- How `Comparator.comparing()` and `Comparator.comparingInt()` can simplify sorting.
+
+
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between `Comparable` and `Comparator`.After practicing different examples, I understood that `Comparable` is mainly used to define the natural ordering of a class, while `Comparator` is useful when I want different ways to sort the same objects.
+
+
+
+## 🎯 Next Goal
+
+Next, I will learn about **advanced Java Collections**, including `Queue`, `Deque`, `PriorityQueue`, and `TreeMap`.
+
