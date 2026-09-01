@@ -1563,3 +1563,67 @@ At first, I was confused about the difference between `Comparable` and `Comparat
 
 Next, I will learn about **advanced Java Collections**, including `Queue`, `Deque`, `PriorityQueue`, and `TreeMap`.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 34
+
+## 📚 What I Learned Today
+
+Today I learned about **advanced Java Collections**. I practiced working with `Queue`, `Deque`, `PriorityQueue`, and `TreeMap`.
+
+I understood how a queue follows the FIFO concept, how a deque allows operations from both ends, how a priority queue processes elements based on priority, and how TreeMap stores keys in sorted order.
+
+---
+
+## 💻 Programs I Practiced
+
+- Creating and using a Queue
+- Adding and removing elements from a Queue
+- Using `offer()`, `peek()`, and `poll()`
+- Processing tasks using a Queue
+- Taking user input and storing it in a Queue
+- Using a Deque
+- Adding and removing elements from both ends
+- Checking a palindrome using Deque
+- Creating a PriorityQueue
+- Creating a max PriorityQueue
+- Creating a Student PriorityQueue
+- Creating and using a TreeMap
+- Sorting student records using TreeMap
+- Using `firstKey()`, `lastKey()`, `lowerKey()`, and `higherKey()`
+- Creating a simple hospital emergency queue
+
+---
+
+## 🎯 What I Understood
+
+- What a Queue is and how FIFO works.
+- How `offer()` adds an element to a queue.
+- How `peek()` checks the front element.
+- How `poll()` removes the front element.
+- What a Deque is and how it works from both ends.
+- How `ArrayDeque` can be used to implement a Deque.
+- How PriorityQueue processes elements according to priority.
+- How to create a max-priority queue.
+- How `TreeMap` keeps its keys sorted.
+- The difference between `HashMap` and `TreeMap`.
+- How to use navigation methods such as `firstKey()` and `lastKey()`.
+
+---
+
+## 🚀 Challenges I Faced
+
+At first, I was confused about the difference between Queue, Deque, and PriorityQueue.
+
+After practicing different examples, I understood that a Queue normally follows FIFO, a Deque allows operations from both ends, and a PriorityQueue processes elements according to their priority.
+
+I also learned that TreeMap is useful when I need key-value data to remain sorted by key.
+
+---
+
+## 🎯 Next Goal
+
+Next, I will learn about **JDBC and Database Connectivity in Java** and understand how Java programs can connect with a database and perform database operations.
+
+---
+
