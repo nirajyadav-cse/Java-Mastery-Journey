@@ -1625,5 +1625,81 @@ I also learned that TreeMap is useful when I need key-value data to remain sorte
 
 Next, I will learn about **JDBC and Database Connectivity in Java** and understand how Java programs can connect with a database and perform database operations.
 
+---------------------------------------------------------------------------------------------------------------------
+
+# 📅 Day 35
+
+
+## 📚 What I Learned Today
+
+Today I learned about **JDBC (Java Database Connectivity)** and how Java applications can communicate with a database. I learned how to connect a Java program with MySQL and perform basic database operations. I also understood how SQL queries are executed from Java.
+
 ---
+
+## 💻 Programs I Practiced
+
+- Connecting Java with MySQL using JDBC
+- Creating a database table using Java
+- Inserting student records into a database
+- Inserting multiple student records
+- Reading student records using `SELECT`
+- Searching for a student using their ID
+- Updating student marks
+- Deleting a student record
+- Counting the total number of students
+- Creating a basic Student CRUD system
+
+---
+
+## 🎯 What I Understood
+
+- What JDBC is and why it is used.
+- How Java connects to a MySQL database.
+- The purpose of `Connection`.
+- How `Statement` is used to execute SQL.
+- Why `PreparedStatement` is useful.
+- How `ResultSet` is used to read data from a database.
+- The difference between `executeQuery()` and `executeUpdate()`.
+- What CRUD operations mean.
+- How to perform INSERT, SELECT, UPDATE, and DELETE operations from Java.
+- How Java can be connected to a real database instead of storing everything only in memory.
+
+---
+
+## 🚀 Challenges I Faced
+
+Setting up the database connection was a little challenging because JDBC requires the correct database URL, username, password, and JDBC driver.
+
+I also had to understand the difference between `Statement` and `PreparedStatement` and how `ResultSet` is used when retrieving data.
+
+After practicing the CRUD operations, I started understanding how Java applications work with databases.
+
+---
+
+## 🌟 Real-World Understanding
+
+JDBC helped me understand how a real application can store and retrieve information.
+
+For example:
+
+```text
+Java Application
+       ↓
+      JDBC
+       ↓
+     MySQL
+       ↓
+    Database
+```
+
+This is an important step toward building real backend applications.
+
+---
+
+## 🎯 Next Goal
+
+Next, I will build a **complete Student Management CRUD System** using Java, JDBC, and MySQL by combining the concepts I learned today.
+
+---
+
 
