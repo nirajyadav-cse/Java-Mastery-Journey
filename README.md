@@ -1702,4 +1702,107 @@ Next, I will build a **complete Student Management CRUD System** using Java, JDB
 
 ---
 
+# 📅 Day 36
+
+## 📚 What I Learned Today
+
+Today I worked on a **complete Student Management System using Java, JDBC, and MySQL**.
+
+I combined the JDBC concepts I learned on Day 35 and used them to build a real database-based application.
+
+The program allows users to add, view, search, update, and delete student records through a simple menu.
+
+---
+
+## 💻 Project I Built
+
+### 🎓 Student Management System
+
+The application provides the following options:
+
+- Add a new student
+- View all students
+- Search for a student by ID
+- Update student marks
+- Delete a student
+- Exit the application
+
+The student information is stored permanently in a MySQL database.
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- JDBC
+- MySQL
+- Maven
+- PreparedStatement
+- SQL
+
+---
+
+## 🎯 What I Understood
+
+- How to create a reusable database connection.
+- How Java communicates with MySQL using JDBC.
+- How to use `Connection`.
+- How to use `PreparedStatement`.
+- How to execute `INSERT`, `SELECT`, `UPDATE`, and `DELETE` queries.
+- How to use `ResultSet` to read database records.
+- How to create a menu-driven Java application.
+- How to divide a program into different methods.
+- How try-with-resources automatically closes database resources.
+- How CRUD operations work in a real application.
+
+---
+
+## 🔄 CRUD Operations
+
+I implemented all four basic database operations:
+
+```text
+CREATE → Add Student
+READ   → View/Search Student
+UPDATE → Update Student
+DELETE → Delete Student
+```
+
+---
+
+## 🚀 Challenges I Faced
+
+The main challenge was connecting all the JDBC concepts together into one complete application.
+
+I also had to understand how different methods communicate with the database and how `PreparedStatement` and `ResultSet` work together.
+
+Building the menu system helped me understand how database operations can be connected with normal Java programming.
+
+---
+
+## 🌟 What I Built
+
+The final application works like this:
+
+```text
+User
+  ↓
+Java Menu
+  ↓
+StudentCRUD
+  ↓
+JDBC
+  ↓
+MySQL Database
+```
+
+This was my first complete Java application that stores and manages data using a real database.
+
+---
+
+## 🎯 Next Goal
+
+Next, I will start working on a **Java Mini Project** where I will combine multiple Java concepts that I have learned throughout my Java Mastery Journey.
+
+---
 
